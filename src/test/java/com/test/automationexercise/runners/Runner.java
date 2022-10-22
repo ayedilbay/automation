@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources/features/automationexercise",
         glue = "com/test/automationexercise/stepdefinition",
-        dryRun = true,
+        dryRun = false,
         tags = "",
         plugin = {"pretty","html:target/uiReport.html","rerun:target/uiFailedTests.txt"}
 
