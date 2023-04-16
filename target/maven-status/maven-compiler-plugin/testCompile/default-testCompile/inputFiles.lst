@@ -1,0 +1,15 @@
+/Users/yerikyertay/IdeaProjects/AutomationExercise/src/test/java/com/test/automationexercise/pages/SignUpPage.java
+/Users/yerikyertay/IdeaProjects/AutomationExercise/src/test/java/com/test/automationexercise/pages/CartPage.java
+/Users/yerikyertay/IdeaProjects/AutomationExercise/src/test/java/com/test/automationexercise/pages/ContactUsPage.java
+/Users/yerikyertay/IdeaProjects/AutomationExercise/src/test/java/com/test/automationexercise/pages/HomePage.java
+/Users/yerikyertay/IdeaProjects/AutomationExercise/src/test/java/com/test/automationexercise/runners/Runner.java
+/Users/yerikyertay/IdeaProjects/AutomationExercise/src/test/java/com/test/automationexercise/stepdefinition/AutomationExerciseHook.java
+/Users/yerikyertay/IdeaProjects/AutomationExercise/src/test/java/com/test/automationexercise/utils/DriverHelper.java
+/Users/yerikyertay/IdeaProjects/AutomationExercise/src/test/java/com/test/automationexercise/utils/ConfigReader.java
+/Users/yerikyertay/IdeaProjects/AutomationExercise/src/test/java/com/test/automationexercise/stepdefinition/AddAndPlaceOrderStepDef.java
+/Users/yerikyertay/IdeaProjects/AutomationExercise/src/test/java/com/test/automationexercise/pages/LoginPage.java
+/Users/yerikyertay/IdeaProjects/AutomationExercise/src/test/java/com/test/automationexercise/stepdefinition/HomePageFunctionalityStepDef.java
+/Users/yerikyertay/IdeaProjects/AutomationExercise/src/test/java/com/test/automationexercise/utils/BrowserUtils.java
+/Users/yerikyertay/IdeaProjects/AutomationExercise/src/test/java/com/test/automationexercise/stepdefinition/SignUpStepDef.java
+/Users/yerikyertay/IdeaProjects/AutomationExercise/src/test/java/com/test/automationexercise/runners/ReRunner.java
+/Users/yerikyertay/IdeaProjects/AutomationExercise/src/test/java/com/test/automationexercise/pages/ProductPage.java

@@ -1,0 +1,2 @@
+file:src/test/resources/features/automationexercise/singup.feature:8:22:37:45
+file:src/test/resources/features/automationexercise/addandplaceorder.feature:6:16
